@@ -10,6 +10,6 @@ public class DemoTest {
         String result = d.say("tommy");
         Assert.assertEquals("hello maven, tommy",result);
         System.out.println(result);
-
+        System.out.println("hello maven, tommy2222");
     }
 }
